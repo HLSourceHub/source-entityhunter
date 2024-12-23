@@ -1,0 +1,14 @@
+From 1.0 to 1.1
+____________________________________________
+- Top 3 leaders on the HUD
+- Reduced map sizes by 50% to reduce lag
+- Reduced number of entities in each map
+- Ammo reload is now cycled through instead of all 12 buttons launching at once
+- Weapons are added by the individual mapper
+- Ammo is added by individual mapper
+- Fixed players spawning on top of other players
+- Fixed crossbow not always giving +1 to score
+- Reskinned the 357, shotgun, and crossbow
+- New steam game icon
+- Added taunts, default bind is T
+- Added time left in map, default bind is Q

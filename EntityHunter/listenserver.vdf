@@ -1,0 +1,3 @@
+//   Listen Server Configuration File 
+hostname "Entity Hunter 1.1 Server" 
+sv_lan 0
